@@ -1,4 +1,4 @@
-# CRYPTOOASIS_VER_2
+# CryptoPokerGame
 
 ### Install server dependencies
 
